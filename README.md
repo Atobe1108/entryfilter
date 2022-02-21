@@ -1,2 +1,3 @@
 # entryfilter
-This project is code for entryfilterX.
+이 코드는 엔트리 필터링 우회기입니다!
+자신의 브라우저에 북마크를 추가한 다음, URL 칸에 이 코드를 넣으시면 성공이랍니다!
